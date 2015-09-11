@@ -10,9 +10,10 @@
 - (Optional) Computer monitors
 
 ## Prep beforehand:
-- Sign up for a Team on exercism.io
-- As you get people to RSVP to your meetup, ask a few of the more experienced people to install exercism.io in advance
+- Sign up for a Team on `http://http://exercism.io/`
+- As you get people to RSVP to your meetup, ask a few of the more experienced people to install `exercism` in advance
 - Add your meetup members to your team, by asking them for their GitHub handles.
+- When people RSVP, ask them what languages they are interested in.
 - Invite everyone! Language-agnostic! Level-agnostic! No-frameworks involved!
 
 ## Schedule
@@ -21,19 +22,17 @@
 * Have people seat themselves and, if they don't have Exercism.io installed, get them started. This involves: Getting a GitHub handle, installing Exercism.io, and confirming their Terminal and code editors are installed and operating.
 * If people don't have laptops, it's okay. You will pair them with someone who does.
 
-### 10 Minutes: Stand Up
+### 10 Minutes: `Stand Up`
 * Go around in a circle and introduce yourselves. (Optional: If most people are already in pairs, you can have them introduce each other.)
 * Explain briefly what a Stand Up is.
 * Answer: "What did I work on today (at work, in learning, either)" / "What do I want to learn tonight" / "What I got stuck on recently in my learning"
 * Organizer: During the Stand Up, make sure everyone's GitHub handle is added to the Exercism.io team.
 
-### 40 Minutes: Pair people up.
+### 40 Minutes: `Pair` people up.
 * Pair people up by computer system preference (Win/Mac/Linux), language interest, and level of experience.
 * Explain and assign a Driver and Navigator for the first-time Exercism.io-ers, and first-time programmers, and first-time Pair Programmers.
 
-- For first-timers:
-* Have them complete the "Hello World" activity with a pair. First-timers are best paired with non-first-timers.
-* Make sure they read the README.md. If they have more questions or comments, note them.
+- For first-timers: Have them complete the "Hello World" activity with a pair. First-timers are best paired with non-first-timers. Make sure they read the README.md. If they have more questions or comments, note them.
 
 - After the first pair session, you may do a second pair session if people have time. Read "More ideas: Group therapeutic refactoring" or "More ideas: Advanced 'fun' pair programming" for activities if you have more time.
 
