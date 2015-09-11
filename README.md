@@ -17,7 +17,7 @@
 - Invite everyone! Language-agnostic! Level-agnostic! No-frameworks involved!
 
 ## Schedule
-### 20 Minutes: Mingle + Installation
+### 20 Minutes: Mingle + `Installation`
 * Have people sign up on a piece of paper or whiteboard. Ask for their language preferences, system preference (Windows/Mac) and their GitHub handles.
 * Have people seat themselves and, if they don't have Exercism.io installed, get them started. This involves: Getting a GitHub handle, installing Exercism.io, and confirming their Terminal and code editors are installed and operating.
 * If people don't have laptops, it's okay. You will pair them with someone who does.
@@ -34,12 +34,12 @@
 * *For first-timers:* Have them complete the "Hello World" activity with a pair. First-timers are best paired with non-first-timers. Make sure they read the README.md. If they have more questions or comments, note them.
 * After the first pair session, you may do a second pair session if people have time. Read "More ideas: Group therapeutic refactoring" or "More ideas: Advanced 'fun' pair programming" for activities if you have more time.
 
-### 10 Minutes at the end: Retro
+### 10 Minutes at the end: `Retro`
 * Have everyone make a circle again and have each answer: `"What did I work on today?"` / `"What did I get stuck on today? and How did you get over it?"` / `"What did you learn today that you will bring to your coding?"`
 * Do this Retro 20 minutes before the closing. You want people to have more time after the Retro to mingle and exchange contact information.
 * *Optional:* After the Retro, use a projector to show the Team page of Exercism.io. Your participants will be able to see all the exercises that everyone has submitted. Ask them to submit a "nitpick" for other people when they're back at home.
 
-## More ideas: Group therapeutic refactoring
+## More ideas: `Group therapeutic refactoring`
 * Do you have an experienced, kind experienced coder willing to do code editing on the spot? Try this:
 * Ask participants to get as far into their current exercise (HelloWorld or Bob are good). And tell them you will stop them in 20 minutes.
 * After the 20 minutes, ask a pair to volunteer to show their code on the screen. Use a projector to show it to everyone. Alternatively, people can look at the submitted exercise link online. Have the pair explain their process and code. Ask them if they got stuck on anything.
