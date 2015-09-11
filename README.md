@@ -10,7 +10,7 @@
 - (Optional) Computer monitors
 
 ## Prep beforehand:
-- Sign up for a Team on `http://http://exercism.io/`
+- Sign up for a Team on `http://exercism.io/`
 - As you get people to RSVP to your meetup, ask a few of the more experienced people to install `exercism` in advance
 - Add your meetup members to your team, by asking them for their GitHub handles.
 - When people RSVP, ask them what languages they are interested in.
