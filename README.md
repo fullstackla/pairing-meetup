@@ -47,6 +47,12 @@
 * Others can participate by: 1) Raising their hand and offering more nitpicks, 2) commenting on the Exercism online.
 * This is a good chance to talk about Refactoring and Code Quality. It shows people that code can be done in many ways and there is no "right" answer.
 
+## More ideas: `Comparing two languages side by side`
+* Get participants who solved for the same problem, in various languages, to present their progress and present what challenges they are struggling with right now.
+* Have someone verbally explain, quickly, what the problem involves for the group.
+* For example, show a Ruby and JavaScript implementation side by side.
+* Alternatively, show two Ruby or two JavaScript implementations side by side.
+
 ## More ideas: Advanced "fun" pair programming
 * A pairing session where no one is actually allowed to talk.
 * A pairing session where you "ping pong" between each test.
