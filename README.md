@@ -25,11 +25,14 @@
 ### 10 Minutes: `Stand Up`
 * Go around in a circle and introduce yourselves. (Optional: If most people are already in pairs, you can have them introduce each other.)
 * Explain briefly what a Stand Up is.
-* _Answer:_ `"What did I work on today (at work, in learning, either)"` / `"What do I want to learn tonight"` / `"What I got stuck on recently in my learning"`
+* _Answer:_ `"What did I work on today (at work, in learning, either)"` / `"What do I want to learn tonight"` / `"What I got stuck on recently in my learning"` 
+* _Specifically for Newbies_: Ask what online programs, books, videos, tutorials and/or side projects they are currently work on and where they are stuck in their learning.
+* _Specifically for Regulars_: Ask them what Exercism they worked on last time and how far they got.
 * _Organizer:_ During the Stand Up, make sure everyone's GitHub handle is added to the Exercism.io team.
+* _Organizer:_ Show the Exercism team page and give thumbs up for people who have worked on Exercisms or commented on Exercisms since the past meetup. 
 
 ### 40 Minutes: `Pair` people up.
-* Pair people up by computer system preference (Win/Mac/Linux), language interest, and level of experience.
+* Pair people up by computer system preference (Win/Mac/Linux), language interest, and level of experience. Alternatively, pair people up by what exercise they are working on (Hello World, Hamming, Leap Year, etc.). Put pairs working on the same level and language close to each other.
 * Explain and assign a Driver and Navigator for the first-time Exercism.io-ers, and first-time programmers, and first-time Pair Programmers. Give out extra keyboards, monitors, and mice for people who need it. Monitors are especially good for people with small laptops.
 * *For first-timers:* Have them complete the "Hello World" activity with a pair. First-timers are best paired with non-first-timers. Make sure they read the README.md. If they have more questions or comments, note them.
 * After the first pair session, you may do a second pair session if people have time. Read "More ideas: Group therapeutic refactoring" or "More ideas: Advanced 'fun' pair programming" for activities if you have more time.
