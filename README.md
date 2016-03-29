@@ -1,4 +1,4 @@
-## Welcome to Pairing:
+# Welcome to Pairing:
 
 Check out our latest meetup RSVP information here: htt://www.meetup.com/la-fullstack/
 
