@@ -1,6 +1,6 @@
 # Welcome to Pairing:
 
-Check out our latest meetup RSVP information here: htt://www.meetup.com/la-fullstack/
+Check out our latest meetup RSVP information here: http://www.meetup.com/la-fullstack/
 
 ## Things to do before your first Pairing Meetup:
 - Install a code editor.
