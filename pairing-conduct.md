@@ -1,7 +1,25 @@
+# Thoughts on Inclusivity and Community
+
+Our goal is to foster an inclusive community that is open to all, regardless of skill/experience level, gender, ethnicity, age, etc. As a member of this community, it is therefore your responsibility to do your part in making sure that other attendees feel welcomed and confortable.
+
+---
+
+### On Diversity
+
+The homogeneous makeup of the tech community is notoriously bad. Promoting diversity is a huge deal to us and is something we take very seriously. If you feel that we could be doing more in some way to be more inclusive and welcoming to under-represented and/or marginalized groups, please let us know immediately.
+
+Some tips:
+
+- Avoid gendered pronouns (e.g. "Hey *guys.*")
+- WIP; add more here.
+
+---
+
 ### Pairing
 
 Our group is comprised of a pretty good mix of backgrounds and experience levels but it does skew a bit towards those with less experience. Here are some points to consider in order to assure we are promoting a good learning environment:
 
+- It's ok to not know!
 - Please be mindful of your pair's experience level and avoid making assumptions on what they may/may not already know.
 - Try allowing the less-experienced pair to set the pace of the session.
 - Allow your pair to make mistakes and struggle; after all, getting one's hands dirty is the only way to really learn.
