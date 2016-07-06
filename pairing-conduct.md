@@ -28,3 +28,17 @@ Our group is comprised of a pretty good mix of backgrounds and experience levels
 - When teaching your pair concepts they are not familiar with, try to use as much plain English as possible and introduce the fewest number of new concepts/technical terms at a time.
 - Consider body language cues. Your pair may be too afraid to tell you they didn't understand because they did not want to appear unintelligent. Patiently remind them that we are all here to learn, and teach the concept again in different ways.
 - When introducing your pair to a concept that is new to them, please refrain from glossing over the difficulty of learning that concept by saying it's "easy." We know you mean well and are trying to make them feel more at ease, but imagine how demoralizing/discouraging it would be to a newbie if they don't understand the material right after you've told them it was going to be a piece of cake!
+
+# Contacts
+
+### Organizers
+
+- Machiko: @machikoyasuda
+- Kit: @kpearson
+- Jen: @jendiamond
+
+### Links
+
+[Meetup page for FullstackLA](http://www.meetup.com/la-fullstack/)
+
+You can find many of us hanging out in the JS.LA Slack. Sign up [here](https://jsla-slackin.herokuapp.com/)
