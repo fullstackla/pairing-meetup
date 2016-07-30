@@ -9,7 +9,7 @@ Check out our latest meetup RSVP information here: http://www.meetup.com/la-full
 4. **All the details**: RSVP on Meetup.com to get the latest updates on the meetup location (parking, Metro access) and all those logistical details.
 
 ## Thanks to our Sponsor, MaxCDN
-- We <3 (MaxCDN)[https://github.com/maxcdn]
+- We <3 [MaxCDN](https://github.com/maxcdn)
 
 ## When you are stuck on something:
 1. When you are stuck on code: Make an issue on what you're stuck on here - https://github.com/fullstackla/pairing-meetup/issues
