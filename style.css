@@ -1,14 +1,56 @@
-
-
-body {
-    background-color: #8D8E8E;
+@charset "utf-8";
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700);
+		
+body { 
+    margin: 0; 
+    padding: 0; 
+    background-color: #741F2B;
 }
 
-div {
+#info {
+        font-family: Sans-Serif;
+        position: fixed;
+        top: 1%;
+        right:1%;
+        background-color: rgba(141,142,142,0.8);
+        color: rgba(0,0,0,0.8)
+        padding: 10px 25px 25px;
+        height: 88%;
+        width: 38%;
+        overflow:auto
+}
+
+#map { 
+    position:fixed; 
+    top:0; 
+    bottom:0; 
+    width:93%; 
+}
+
+.ui-button {
+  background:#3887BE;
+  color:#FFF;
+  display:block;
+  position:absolute;
+  top:50%;left:50%;
+  width:160px;
+  margin:-20px 0 0 -80px;
+  z-index:100;
+  text-align:center;
+  padding:10px;
+  border:1px solid rgba(0,0,0,0.4);
+  border-radius:3px;
+  }
+  .ui-button:hover {
+    background:#3074a4;
+    color:#fff;
+    }
+
+.vis {
     height: auto;
     width: auto;
     border-color: #2A3C24;
-    background-color: #CAD593;
+    background-color: #DAD593;
     border-style: solid;
     border-width: 0.25em;
     border-radius: 1.5em;
@@ -21,7 +63,7 @@ h1 { color: #2A3C24; }
 h2 { color: #2A3C24; }
 h3 { color: #2A3C24; }
 
-.title {
+#title {
     background-color: #52D1DC;
 }
 
