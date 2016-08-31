@@ -14,7 +14,6 @@
 + [Code Quizzes](http://www.codequizzes.com/)
 + [Learn Code The Hard Way](https://learncodethehardway.org/)
 
-
 **CSS Resources**
 
 + [CSSButton \| CSS Generator](http://www.cssbutton.me/)
@@ -23,13 +22,11 @@
 + [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 + [vasanthk/css-refresher-notes: CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes)
 
-
 **JavaScript Resources**
 
 + [getify/You-Dont-Know-JS: You Don't Know JS (Book Series)](https://github.com/getify/You-Dont-Know-JS)
 + [JSbooks \| The best free JavaScript Resources](http://jsbooks.revolunet.com/)
 + [JS Bin \| Collaborative JavaScript Debugging](https://jsbin.com)
-
 
 **Regular Expressions**
 
@@ -37,14 +34,12 @@
 + [RegExr](http://regexr.com/)
 + [Regular-Expressions.info](http://www.regular-expressions.info/)
 
-
 **Git & Terminal Resources**
 
 + [git-tips/tips: Most Commonly Used Git Tips and Tricks](https://github.com/git-tips/tips)
 + [Terminal Cheatsheet for Mac (Basics)](https://github.com/0nn0/terminal-mac-cheatsheet)
 + [jlevy/the-art-of-command-line: The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 + [tiimgreen/github-cheat-sheet: Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
-
 
 **Tools**
 
@@ -62,7 +57,6 @@
 + [Python Tutor \| VISUALIZE Python, Java, JavaScript, TypeScript, Ruby, C, and C++ programs](http://pythontutor.com/)
 + [VIM Adventures \| Learning VIM While Playing a Game](http://vim-adventures.com/)
 
-
 **RTM (Read the Manual)**
 
 + [Ruby-Doc.org \| Documenting the Ruby Language](http://ruby-doc.org/)
@@ -71,7 +65,6 @@
 + [CSS Reference \| Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 + [JavaScript Methods Index \| Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Methods_Index)
 + [Daring Fireball: Markdown](http://daringfireball.net/projects/markdown/)
-
 
 **General**
 
