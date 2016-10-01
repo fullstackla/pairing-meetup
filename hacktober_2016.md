@@ -17,6 +17,9 @@
 - Show & Tell after - what you worked on
 - List of projects to work on - @machikoyasuda will start compiling a list like this: https://github.com/welcome-to-open-source/Atlanta - Open Source projects (which includes your personal side project :) ) prepare beginner-friendly, well documented issues and remote support via slack or GitHub during the time of the event, and try to get pull requests reviewed & merged fast.
 
+## Participants & projects:
+- Add yourself to this list: https://github.com/welcome-to-open-source/atlanta/issues/1
+
 ## Important questions: 
 - **Boba.js** - @leighphan @kangashley and other OC locals, please recommend us some walkable fun places around the area. Maybe with a map!? 
 - Accessibility
