@@ -10,3 +10,4 @@ We wanted to start this document here to acknowledge all of the people who have 
 
 ## Open source project builders & maintainers
 - [Katrina Owen](https://github.com/kytrinyx), [Exercism.io](https://github.com/exercism/)
+- [Gregor Martynus](http://github.com/gr2m), [Hoodie](http://github.com/hoodiehq/)
