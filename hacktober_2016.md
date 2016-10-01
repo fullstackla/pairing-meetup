@@ -10,6 +10,7 @@ Pro Desk Space
 
 ## Prepared lists of issues:
 - Hoodie: Upgrade mapchat, in progress https://github.com/hoodiehq/camp/issues/14
+- Boba.js: Make a fun page
 
 ## What will go on:
 - Stand Up: Pairing style
