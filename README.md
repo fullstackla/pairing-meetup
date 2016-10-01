@@ -26,13 +26,18 @@ Pairing also allows people to share and learn different coding tricks (like keyb
 
 Here are some [tips](https://github.com/fullstackla/pairing-meetup/blob/master/tips-on-pairing.md), written by fellow meetup attendees.
 
-## Open Source projects we have worked on at the meetup:
-- [Exercism](https://github.com/exercism/exercism.io)
-- [Hoodie](https://github.com/hoodiehq/)
-- [Homebrew](https://github.com/homebrew)
+## Open Source projects we have contributed to at the meetup:
+
+| [Exercism](https://github.com/exercism/exercism.io)  | [Hoodie](https://github.com/hoodiehq/) |  [Homebrew](https://github.com/homebrew) |
+| ------------- | ------------- |------------- |
+| ![Exercism][exercism-logo]  | ![Hoodie][hoodie-logo]  | ![Homebrew][brew-logo]  |
+
+[exercism-logo]: https://avatars2.githubusercontent.com/u/5624255?v=3&s=200
+[hoodie-logo]: https://avatars1.githubusercontent.com/u/1888826?v=3&s=200
+[brew-logo]: https://avatars2.githubusercontent.com/u/1503512?v=3&s=200
 
 ## When you are stuck on something:
-1. When you are stuck on code: Make an issue on what you're stuck on here - https://github.com/fullstackla/pairing-meetup/issues
+1. When you are stuck on code: Make an issue on what you‘re stuck on here - https://github.com/fullstackla/pairing-meetup/issues
 2. When you are lost, on your way and stuck in traffic and need to let someone know about something, left something at the venue, confused about Metro-access, parking, leave a comment on the http://www.meetup.com/la-fullstack/ event invite or that night.
 3. When you have questions/concerns about code of conduct, things like that, talk to Kit or Machiko by messaging them on Meetup.com.
 
