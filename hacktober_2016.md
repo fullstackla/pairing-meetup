@@ -1,8 +1,7 @@
-## Date/Time:
-Sunday October 16
-
-## Location: 
-Pro Desk Space
+## Details
+- 📅 Sunday October 16
+- 📍 Pro Desk Space, [112 E Amerige Ave. Fullerton, CA 92832](http://www.prodeskspace.com/)
+- RSVP? Coming soon.
 
 ## How to get here: 
 1. **Metro.js** - LA group can take the Metrolink together. Who wants to help organize this? 
