@@ -12,7 +12,8 @@
 - **Hoodie**: For those who want to get knee-deep into front-end and back-end JavaScript code - Upgrade mapchat, in progress https://github.com/hoodiehq/camp/issues/14 @machikoyasuda @gr2m `[JavaScript, jQuery]`
 - **Boba.js**: Make a fun page with animations and fun things. `[HTML, CSS, JavaScript, jQuery, whatever-you-want]`
 - **Kindara Gem**: Write more Rspec tests for my gem and make a data visualization @machikoyasuda https://github.com/machikoyasuda/kindara-client-gem `[Ruby]`
-- **Mapping project:** Add more hiking trails that are accessible by Metro @machikoyasuda `[JavaScript, Leaflet.js, HTML, CSS]`
+- **Mapping project**: Add more hiking trails that are accessible by Metro @machikoyasuda `[JavaScript, Leaflet.js, HTML, CSS]`
+- **Mozilla Developer Network documentation**: https://developer.mozilla.org/en-US/docs/MDN/Getting_started
 - _Always good to do:_ Work on your own portfolio...
 - ⁉️ _But I just want to work on my own side project_: Working on your blog, portfolio, resume, your own gem, npm module, or something else? We consider those open source projects, as long as the project is public and not-for-work. Of course you can pair on those!
 
