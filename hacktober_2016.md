@@ -8,9 +8,15 @@
 2. **Carpool.js** - Who wants to help organize this?
 
 ## Prepared lists of projects & issues to check out:
-- Hoodie: Upgrade mapchat, in progress https://github.com/hoodiehq/camp/issues/14
-- Boba.js: Make a fun page
+- **Hoodie**: For those who want to learn and practice JavaScript in a friendly sand-box - https://github.com/hoodiehq/camp/issues/23 @machikoyasuda @gr2m `[JavaScript, jQuery, HTML, CSS, Leaflet.js]`
+- **Hoodie**: For those who want to get knee-deep into front-end and back-end JavaScript code - Upgrade mapchat, in progress https://github.com/hoodiehq/camp/issues/14 @machikoyasuda @gr2m `[JavaScript, jQuery]`
+- **Boba.js**: Make a fun page with animations and fun things. `[HTML, CSS, JavaScript, jQuery, whatever-you-want]`
+- **Kindara Gem**: Write more Rspec tests for my gem and make a data visualization @machikoyasuda https://github.com/machikoyasuda/kindara-client-gem `[Ruby]`
+- Mapping project: Add more hiking trails that are accessible by Metro @machikoyasuda `[JavaScript, Leaflet.js, HTML, CSS]`
+- Always good to do: Work on your own blog, portfolio...
 - ⁉️ _But I just want to work on my own side project_: Working on your blog, portfolio, resume, your own gem, npm module, or something else? We consider those open source projects, as long as the project is public and not-for-work. Of course you can pair on those!
+
+> ProTip: Add your GitHub handle next to an issue you want to try up above, or, you can add your own projects & issues to that list. 
 
 ## Wait, but what is Hacktober? 🎃
 Consider Hacktober a chance to try something new that scares you, or continue on a legacy side project that also scares you. We'll work in pairs:
