@@ -12,11 +12,17 @@ Check out our latest meetup RSVP information here: http://www.meetup.com/la-full
 4. **All the details**: RSVP on [Meetup.com](http://www.meetup.com/la-fullstack/) to get the latest updates on the meetup location (parking, Metro access) and all those logistical details.
 5. **Check out the Show Notes**: All of our previous events' ⚡ 📻 Show Notes are archived here: https://github.com/fullstackla/pairing-meetup/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Ashow-notes%20 
 
-## How do I get to the meetup?
+## How do I get to the Downtown LA meetup?
 - **Address:** 241 S Figueroa St. Suite 240 Los Angeles, CA 90012
 - **Nearest Metro station:** Red Line - Pershing Square Station, or, Expo Line - Metro Center/7th Street
 - **Parking:** Parking is a challenge here. We recommend transit, carpool and voracious free parking-spot hunting.
 - Thank you to our location sponsor: We <3 [8th Light](https://github.com/8thlight)
+
+## How do I get to the Santa Monica meetup?
+- **Address:** 1333 Second Street Suite 200, Santa Monica, CA 90401 ([directions](https://goo.gl/maps/Dt7UwtoF9f52) | [street view](https://goo.gl/maps/NNDz7z4cvbw)).
+- **Nearest Metro station:** Expo Line - Downtown Santa Monica (806) ([directions](https://goo.gl/maps/hgHEHeNBuz92)) + ~10 min walk.
+- **Parking:** Public Parking Structure 4 — immediately west of the office ([street view](https://goo.gl/maps/1D9XfGXQ4YA2)). (~$4. for 3 hours; [fee schedule](http://www.smgov.net/Departments/PCD/Transportation/Motorists-Parking/Where-to-Park/))
+- Location sponsor: [Pivotal Labs](https://github.com/pivotal)
 
 ## What is pair programming?
 
