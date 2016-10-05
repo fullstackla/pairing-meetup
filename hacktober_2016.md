@@ -1,7 +1,7 @@
 ## Details
 - 📅 Sunday October 16
 - 📍 Pro Desk Space, [112 E Amerige Ave. Fullerton, CA 92832](http://www.prodeskspace.com/)
-- RSVP? Coming soon.
+- RSVP: https://www.meetup.com/la-fullstack/events/234637657/.
 
 ## How to get here: 
 1. **Metro.js** - LA group can take the Metrolink together. Who wants to help organize this? 
@@ -33,5 +33,5 @@ Extra-long pairing time:
 
 ## Important questions: 
 - **Boba.js** - @leighphan @kangashley and other OC locals, please recommend us some walkable fun places around the area. Maybe with a map!? 
-- Accessibility
-- Code of Conduct
+- Accessibility:
+- [Code of Conduct](http://www.fullstack.la/code-of-conduct)
