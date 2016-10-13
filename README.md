@@ -34,15 +34,23 @@ Here are some [tips](https://github.com/fullstackla/pairing-meetup/blob/master/t
 
 ## Open Source projects we have contributed to at the meetup:
 
-| [Exercism](https://github.com/exercism/exercism.io)  | [Hoodie](https://github.com/hoodiehq/) |  [Homebrew](https://github.com/homebrew) |
-| ------------- | ------------- |------------- |
-| ![Exercism][exercism-logo]  | ![Hoodie][hoodie-logo]  | ![Homebrew][brew-logo]  |
+| [Exercism](https://github.com/exercism/exercism.io)  | [Hoodie](https://github.com/hoodiehq/) |  [Homebrew](https://github.com/homebrew) | More projects:|
+| ------------- | ------------- |------------- |------------- |
+| ![Exercism][exercism-logo]  | ![Hoodie][hoodie-logo]  | ![Homebrew][brew-logo]  | - [Parrit](https://github.com/Pinwheeler/Parrit)|
 
 [exercism-logo]: https://avatars2.githubusercontent.com/u/5624255?v=3&s=200
 [hoodie-logo]: https://avatars1.githubusercontent.com/u/1888826?v=3&s=200
 [brew-logo]: https://avatars2.githubusercontent.com/u/1503512?v=3&s=200
 
-## When you are stuck on something:
+
+
+## Read more about us:
+
+- [Q&A: Homebrew Summer of Code Talk at Fullstack](http://eirinikos.github.io/2016/08/17/fullstack-q-a/) by [@eirinkos](http://github.com/eirinkos)
+- [Pairing on a map page](http://developingian.com/pairing-on-a-map-page/) by [@iandcarroll](http://github.com/iandcarroll)
+- [Pair Programming for optimizing mobile](https://www.topbug.net/blog/2016/08/27/optimization-for-mobile-a-pair-programming-story-at-fullstackla/) by [@xuhdev](http://github.com/xuhdev)
+
+## Help!
 1. When you are stuck on code: Make an issue on what you‘re stuck on here - https://github.com/fullstackla/pairing-meetup/issues
 2. When you are lost, on your way and stuck in traffic and need to let someone know about something, left something at the venue, confused about Metro-access, parking, leave a comment on the http://www.meetup.com/la-fullstack/ event invite or that night.
 3. When you have questions/concerns about code of conduct, things like that, talk to Kit or Machiko by messaging them on Meetup.com.
