@@ -1,4 +1,4 @@
-# Welcome to Open Source Pair Programming
+# Welcome to Fullstack :zap: Open Source Pair Programming 
 
 We meet every other Wednesday in downtown Los Angeles. Come pair program with us on open source projects. Want to learn more about us? Read about our [origins](https://github.com/fullstackla/pairing-meetup/blob/master/ORIGINS.md) and [thank you](https://github.com/fullstackla/pairing-meetup/blob/master/THANKS.md) to all of our sponsors.
 
@@ -7,9 +7,9 @@ Check out our latest meetup RSVP information here: http://www.meetup.com/la-full
 
 ## Do I have to do anything before I start?
 1. **Code editor**: Install a code editor. If you do not have one already, here’s our favorite for Macs and Windows: https://atom.io/
-2. **GitHub**: Install the GitHub app if you do not have it already, and make a GitHub account.
+2. **GitHub**: Make a GitHub account and install `git`.
 3. **Code of Conduct**: Read our [Code of Conduct](https://www.girldevelopit.com/code-of-conduct)
-4. **All the details**: RSVP on [Meetup.com](http://www.meetup.com/la-fullstack/) to get the latest updates on the meetup location (parking, Metro access) and all those logistical details.
+4. **RSVP & Logistics**: RSVP on [Meetup.com](http://www.meetup.com/la-fullstack/) to get the latest updates on the meetup location (parking, Metro access) and all those logistical details.
 5. **Check out the Show Notes**: All of our previous events' ⚡ 📻 Show Notes are archived here: https://github.com/fullstackla/pairing-meetup/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Ashow-notes%20 
 
 ## How do I get to the Downtown LA meetup?
@@ -41,8 +41,6 @@ Here are some [tips](https://github.com/fullstackla/pairing-meetup/blob/master/t
 [exercism-logo]: https://avatars2.githubusercontent.com/u/5624255?v=3&s=200
 [hoodie-logo]: https://avatars1.githubusercontent.com/u/1888826?v=3&s=200
 [brew-logo]: https://avatars2.githubusercontent.com/u/1503512?v=3&s=200
-
-
 
 ## Read more about us:
 
