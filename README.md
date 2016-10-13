@@ -1,6 +1,6 @@
 # Welcome to Fullstack :zap: Open Source Pair Programming 
 
-We meet every other Wednesday in downtown Los Angeles :city_sunset: and Santa Monica :palm_tree:. Come pair program with us on open source projects. Want to learn more about us? Read about our [origins](https://github.com/fullstackla/pairing-meetup/blob/master/ORIGINS.md) and [thank you](https://github.com/fullstackla/pairing-meetup/blob/master/THANKS.md) to all of our sponsors.
+We meet on Wednesdays in [downtown Los Angeles](https://github.com/fullstackla/pairing-meetup#city_sunset-how-do-i-get-to-the-downtown-la-meetup) and [Santa Monica](https://github.com/fullstackla/pairing-meetup#palm_tree-how-do-i-get-to-the-santa-monica-meetup) :palm_tree:. Come pair program with us on open source projects. Want to learn more about us? Read about our [origins](https://github.com/fullstackla/pairing-meetup/blob/master/ORIGINS.md) and [thank you](https://github.com/fullstackla/pairing-meetup/blob/master/THANKS.md) to all of our sponsors.
 
 ## :calendar: How do I join your next event?
 Check out our latest meetup RSVP information here: http://www.meetup.com/la-fullstack/
