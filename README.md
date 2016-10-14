@@ -34,13 +34,56 @@ Here are some [tips](https://github.com/fullstackla/pairing-meetup/blob/master/t
 
 ## :zap: Open Source projects we have contributed to at the meetup:
 
-| [Exercism](https://github.com/exercism/exercism.io)  | [Hoodie](https://github.com/hoodiehq/) |  [Homebrew](https://github.com/homebrew) | More projects:|
+| [Exercism](https://github.com/exercism/exercism.io)  | [Hoodie](https://github.com/hoodiehq/) |  [Homebrew](https://github.com/homebrew) | [Parrit](https://github.com/Pinwheeler/Parrit)|
 | ------------- | ------------- |------------- |------------- |
-| ![Exercism][exercism-logo]  | ![Hoodie][hoodie-logo]  | ![Homebrew][brew-logo]  | - [Parrit](https://github.com/Pinwheeler/Parrit)|
+| ![Exercism][exercism-logo]  | ![Hoodie][hoodie-logo]  | ![Homebrew][brew-logo]  | :bird: |
+| `Ruby` `Sinatra`  | `JavaScript` | `Ruby`  | `JavaScript (React.js)`|
 
 [exercism-logo]: https://avatars2.githubusercontent.com/u/5624255?v=3&s=200
 [hoodie-logo]: https://avatars1.githubusercontent.com/u/1888826?v=3&s=200
 [brew-logo]: https://avatars2.githubusercontent.com/u/1503512?v=3&s=200
+
+## :zap: More ideas on where to start:
+
+<table>
+    <thead>
+        <tr><th>Project</th><th>Language</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://aur.archlinux.org/packages/">AUR (ArchLinux User Repository) packages</a></td>
+            <td>Bash</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/scop/bash-completion">bash auto completion scripts</a></td>
+            <td>Bash</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/dimitri/el-get/tree/master/recipes">el-get recipes</a></td>
+            <td>Emacs Lisp</td>
+        </tr>
+        <tr>
+            <td><a href="https://gitlab.com/fdroid/fdroiddata/tree/master/metadata">F-Droid metadata</a></td>
+            <td>plain text</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Homebrew/homebrew-core/tree/master/Formula">homebrew recipes</a></td>
+            <td>Ruby</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/PrismJS/prism/tree/gh-pages/components">prism.js components</a></td>
+            <td>JavaScript</td>
+        </tr>
+        <tr>
+            <td><a href="https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/lexers/">pygments lexers</a></td>
+            <td>Python</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/zsh-users/zsh-completions">zsh auto completion scripts</a></td>
+            <td>Zsh</td>
+        </tr>
+    </tbody>
+</table>
 
 ## :pencil: Read more about us:
 
