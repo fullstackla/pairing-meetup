@@ -1,4 +1,4 @@
-#Good Pull Request Examples:
+# Good Pull Request Examples:
 
 Submitting your code improvements to an Open Source project requires good coding, but there's going to me more than machines reading your changes.
 
@@ -8,12 +8,11 @@ Bellow are some examples of really awsome pull requests that let the maintainer 
 
 Definitely use these examples as role models for great pull request messages: It's good manners, it will make you more popular with maintainers and get your pull requests accepted faster!
 
-https://github.com/Pinwheeler/Parrit/pull/40
+## :zap: Made at Fullstack LA:
+- https://github.com/Pinwheeler/Parrit/pull/40
+- https://github.com/Pinwheeler/Parrit/pull/39
+- https://github.com/hoodiehq/hoodie-camp-tutorial/pull/19
+- https://github.com/hoodiehq/hoodie-camp-tutorial/pull/22
+- https://github.com/hoodiehq/hoodie-camp-tutorial/pull/21
 
-https://github.com/Pinwheeler/Parrit/pull/39
-
-https://github.com/hoodiehq/hoodie-camp-tutorial/pull/19
-
-https://github.com/hoodiehq/hoodie-camp-tutorial/pull/22
-
-https://github.com/hoodiehq/hoodie-camp-tutorial/pull/21
+See more: https://github.com/search?utf8=%E2%9C%93&q=%22Made+at+Fullstack+LA%22&type=Issues&ref=searchresults
