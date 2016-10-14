@@ -33,6 +33,7 @@ so that (     ).
 
 #### Credits
 <!--- @mention yourself and any pairing partners or helpful passers-by. -->
+paired with @github_handle
 
 ---
 
