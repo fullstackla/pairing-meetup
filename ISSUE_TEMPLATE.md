@@ -32,7 +32,7 @@ so that (     ).
 <!--- How has this issue affected you? What are you trying to accomplish? -->
 
 #### Credits
-<!--- @mention youurself and any pairing partners or helpful passers-by. -->
+<!--- @mention yourself and any pairing partners or helpful passers-by. -->
 
 ---
 
