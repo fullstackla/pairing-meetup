@@ -1,6 +1,10 @@
 # Welcome to Fullstack :zap: Open Source Pair Programming 
 
-We meet on Wednesdays in [downtown Los Angeles](https://github.com/fullstackla/pairing-meetup#city_sunset-how-do-i-get-to-the-downtown-la-meetup) and [Santa Monica](https://github.com/fullstackla/pairing-meetup#palm_tree-how-do-i-get-to-the-santa-monica-meetup). Come pair program with us on open source projects. Want to learn more about us? Read about our [origins](https://github.com/fullstackla/pairing-meetup/blob/master/ORIGINS.md) and [thank you](https://github.com/fullstackla/pairing-meetup/blob/master/THANKS.md) to all of our sponsors.
+We meet on Wednesdays in [downtown Los Angeles](https://github.com/fullstackla/pairing-meetup#city_sunset-how-do-i-get-to-the-downtown-la-meetup) and [Santa Monica](https://github.com/fullstackla/pairing-meetup#palm_tree-how-do-i-get-to-the-santa-monica-meetup). Come pair program with us on open source projects. You can read about how we got started here: [origins](https://github.com/fullstackla/pairing-meetup/blob/master/ORIGINS.md) and our [thank yous](https://github.com/fullstackla/pairing-meetup/blob/master/THANKS.md) to all of our sponsors. 
+
+Check out our latest [pull requests](https://github.com/fullstackla/pairing-meetup/blob/master/PULL_REQUEST_EXAMPLES.md).
+
+You'll learn how to :bug: [report bugs and issues](https://github.com/fullstackla/pairing-meetup/blob/master/ISSUE_TEMPLATE.md), clone a project, run it locally and make :fork_and_knife: [pull requests](https://github.com/fullstackla/pairing-meetup/blob/master/PULL_REQUEST_TEMPLATE.md).
 
 ## :calendar: How do I join your next event?
 Check out our latest meetup RSVP information here: http://www.meetup.com/la-fullstack/
