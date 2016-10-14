@@ -20,6 +20,8 @@ resolves # .
 
 #### Credits
 <!--- @mention yourself and any pairing partners or helpful passers-by. -->
+Paired with @github_handle
+
 
 ---
 
