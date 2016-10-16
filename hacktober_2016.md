@@ -10,6 +10,8 @@
 ## Prepared lists of projects & issues to check out:
 - **Hoodie**: For those who want to learn and practice JavaScript in a friendly sand-box - https://github.com/hoodiehq/camp/issues/23 @machikoyasuda @gr2m `[JavaScript, jQuery, HTML, CSS, Leaflet.js]`
 - **Hoodie**: For those who want to get knee-deep into front-end and back-end JavaScript code - Upgrade mapchat, in progress https://github.com/hoodiehq/camp/issues/14 @machikoyasuda @gr2m `[JavaScript, jQuery]`
+- **Hoodie**: Practicing writing specs: https://github.com/hoodiehq/camp/issues/63 https://github.com/hoodiehq/camp/issues/62
+- **Hoodie**: Get deep into back-end development with Hoodie: https://github.com/hoodiehq/camp/issues/61 https://github.com/hoodiehq/camp/issues/60 https://github.com/hoodiehq/camp/issues/60
 - **Boba.js**: Make a fun page with animations and fun things. `[HTML, CSS, JavaScript, jQuery, whatever-you-want]`
 - **Kindara Gem**: Write more Rspec tests for my gem and make a data visualization @machikoyasuda https://github.com/machikoyasuda/kindara-client-gem `[Ruby]`
 - **Mapping project**: Add more hiking trails that are accessible by Metro @machikoyasuda `[JavaScript, Leaflet.js, HTML, CSS]`
@@ -22,7 +24,7 @@
 ## Wait, but what is Hacktober? 🎃
 Consider Hacktober a chance to try something new that scares you, or continue on a legacy side project that also scares you. We'll work in pairs:
 
-1. 🏚 Trick or treating - meet your neighbors: **Stand Up, Halloween style** _What is one spooky, terrifying thing that has scared you recently and how are you or did you get over it?_
+1. :candy: Trick or treating - meet your neighbors: **Stand Up, Halloween style** _What is one spooky, terrifying thing that has scared you recently and how are you or did you get over it?_
 Extra-long pairing time:
 2. :ghost: **Boo!** _try something that utterly scares you,_ - a Haunted Mansion of legacy, untested, out-of-date code? a new spooky framework, a side-project you've been trying to perfect, Vim, anything you want - with a pair, even better. It's okay if you get scared - that's the point. Bonus points: write a blog post about it or share your 
 3. :candy: Give out **treats**: There are lots of ways to give `treats` in the digital world: upping a StackOverflow question / answer that helped you, adding notes of thanks to developers/designers of your favorite open source tools, did someone -- a person at a meetup, a free tutorial, a video blog, an author -- help you in a project? Send them a treat by writing them a thank you tweet/note.
