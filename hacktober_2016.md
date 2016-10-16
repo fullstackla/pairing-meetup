@@ -8,6 +8,7 @@
 2. **Carpool.js** - Who wants to help organize this?
 
 ## Prepared lists of projects & issues to check out:
+- List of other languages/sources: https://github.com/fullstackla/pairing-meetup#zap-open-source-projects-we-have-contributed-to-at-the-meetup
 - **Hoodie**: For those who want to learn and practice JavaScript in a friendly sand-box - https://github.com/hoodiehq/camp/issues/23 @machikoyasuda @gr2m `[JavaScript, jQuery, HTML, CSS, Leaflet.js]`
 - **Hoodie**: For those who want to get knee-deep into front-end and back-end JavaScript code - Upgrade mapchat, in progress https://github.com/hoodiehq/camp/issues/14 @machikoyasuda @gr2m `[JavaScript, jQuery]`
 - **Hoodie**: Practicing writing specs: https://github.com/hoodiehq/camp/issues/63 https://github.com/hoodiehq/camp/issues/62
