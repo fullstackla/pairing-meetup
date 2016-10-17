@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opodz",
+        "address": "362 E 2nd St, Los Angeles, CA 90012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2397797703743,
+          34.047801394271914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yoshirt",
+        "address": "2301 E 7th St E200, Los Angeles, CA 90023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22275042533875,
+          34.03500384982559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "MaxCDN",
+        "address": "3575 Cahuenga Blvd W #330, Los Angeles, CA 90068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35834681987762,
+          34.133760194700855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pro Desk Space",
+        "address": "112 E Amerige Ave Fullerton, CA 92832"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.92363315820693,
+          33.87127741052309
+        ]
+      }
+    }
+  ]
+}
