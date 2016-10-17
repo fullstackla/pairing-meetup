@@ -10,7 +10,7 @@ You'll learn how to :bug: [report bugs and issues](https://github.com/fullstackl
 Check out our latest meetup RSVP information here: http://www.meetup.com/la-fullstack/
 
 ## :computer: Do I have to do anything before I start?
-1. **Code editor**: Install a code editor. If you do not have one already, here’s our favorite for Macs and Windows: https://atom.io/
+1. **Code editor**: Install a code editor. If you do not have one already, here’s our favorite: [Atom](https://atom.io/) -- you can extend it using JavaScript.
 2. **GitHub**: Make a GitHub account and install `git`.
 3. **Code of Conduct**: Read our [Code of Conduct](https://www.girldevelopit.com/code-of-conduct)
 4. **RSVP & Logistics**: RSVP on [Meetup.com](http://www.meetup.com/la-fullstack/) to get the latest updates on the meetup location (parking, Metro access) and all those logistical details.
