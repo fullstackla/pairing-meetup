@@ -42,7 +42,9 @@ Extra-long pairing time:
 2. https://github.com/hoodiehq/hoodie-account-server/pull/192
 3. https://github.com/hoodiehq/hoodie-account-server-api/pull/10
 4. https://github.com/hoodiehq/hoodie-account-server/pull/194
-5. https://github.com/hoodiehq/hoodie-camp-tutorial/pull/33
-6. https://github.com/hoodiehq/camp/issues/79
-7. https://github.com/hoodiehq/camp/issues/82
-8. https://github.com/hoodiehq/hoodie-camp-tutorial/pull/34
+5. https://github.com/hoodiehq/hoodie-account-server/pull/195
+6. https://github.com/hoodiehq/hoodie-account-server/pull/198
+7. https://github.com/hoodiehq/hoodie-camp-tutorial/pull/33
+8. https://github.com/hoodiehq/camp/issues/79
+9. https://github.com/hoodiehq/camp/issues/82
+10. https://github.com/hoodiehq/hoodie-camp-tutorial/pull/34
