@@ -89,11 +89,12 @@ Here are some [tips](https://github.com/fullstackla/pairing-meetup/blob/master/t
     </tbody>
 </table>
 
-## :pencil: Read more about us:
+## :pencil: More from our contributors:
 
 - [Q&A: Homebrew Summer of Code Talk at Fullstack](http://eirinikos.github.io/2016/08/17/fullstack-q-a/) by [@eirinkos](http://github.com/eirinkos)
 - [Pairing on a map page](http://developingian.com/pairing-on-a-map-page/) by [@iandcarroll](http://github.com/iandcarroll)
 - [Pair Programming for optimizing mobile](https://www.topbug.net/blog/2016/08/27/optimization-for-mobile-a-pair-programming-story-at-fullstackla/) by [@xuhdev](http://github.com/xuhdev)
+- [The Practical Dev - A Mentor's Crossroad](https://dev.to/rubynista/a-mentors-crossroad) by [@theresaluu](http://github.com/theresaluu)
 
 ## Help!
 1. When you are stuck on code: Make an issue on what you‘re stuck on here - https://github.com/fullstackla/pairing-meetup/issues
