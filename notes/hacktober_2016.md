@@ -46,3 +46,4 @@ Extra-long pairing time:
 6. https://github.com/hoodiehq/camp/issues/79
 7. https://github.com/hoodiehq/camp/issues/82
 8. https://github.com/hoodiehq/hoodie-camp-tutorial/pull/34
+9. https://github.com/hoodiehq/hoodie-account-server/pull/199
