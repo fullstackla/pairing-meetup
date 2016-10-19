@@ -11,7 +11,7 @@ You'll work with pairs to:
 - Write [commit messages](https://gist.github.com/stephenparish/9941e89d80e2bc58a153) for changes made
 - Run [tests and write tests](https://github.com/hoodiehq/hoodie/blob/master/CODING_STYLE.md#client)
 - Work with common development tools like: continuous integration, [linters and style guides](https://github.com/hoodiehq/hoodie/blob/master/CODING_STYLE.md)
-- Resolving problems with processes like (merge conflicts, squash commits, communicating with maintainers)[https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#maintainers]
+- Resolving problems with processes like [merge conflicts, squash commits, communicating with maintainers,](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#maintainers) and [triaging](https://github.com/hoodiehq/hoodie/blob/master/TRIAGING.md)
 - Push and write :fork_and_knife: [pull requests](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#pull-requests)
 
 ## :calendar: How do I join your next event?
