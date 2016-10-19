@@ -37,4 +37,4 @@ paired with @github_handle
 
 ---
 
-[Made at Fullstack LA](https://meetup.com/la-fullstack/events/234620974) :zap:
+[Made at Fullstack LA](https://github.com/fullstackla/pairing-meetup) :zap: 
