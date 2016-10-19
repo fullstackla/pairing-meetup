@@ -5,14 +5,14 @@ We meet on Wednesdays in [downtown Los Angeles](https://github.com/fullstackla/p
 Check out our latest :fork_and_knife: [pull requests](https://github.com/fullstackla/pairing-meetup/blob/master/PULL_REQUEST_EXAMPLES.md).
 
 You'll work with pairs to:
-- Report :bug: [report bugs and issues](https://github.com/fullstackla/pairing-meetup/blob/master/ISSUE_TEMPLATE.md) 
+- Report :bug: [report bugs and issues](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#bug-reports) 
 - Fork a project and use it locally
 - Read, follow and improve documentation
-- Commit changes on issues  
-- Run tests and write tests
-- Work with common development tools like: continuous integration, linters and other command line tools
-- Resolve issues like: merge conflicts, communicating with maintainers
-- Push and write :fork_and_knife: [pull requests](https://github.com/fullstackla/pairing-meetup/blob/master/PULL_REQUEST_TEMPLATE.md)
+- Write [commit messages](https://gist.github.com/stephenparish/9941e89d80e2bc58a153) for changes made
+- Run [tests and write tests](https://github.com/hoodiehq/hoodie/blob/master/CODING_STYLE.md#client)
+- Work with common development tools like: continuous integration, [linters and style guides](https://github.com/hoodiehq/hoodie/blob/master/CODING_STYLE.md)
+- Resolving problems with processes like (merge conflicts, squash commits, communicating with maintainers)[https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#maintainers]
+- Push and write :fork_and_knife: [pull requests](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#pull-requests)
 
 ## :calendar: How do I join your next event?
 Check out our latest meetup RSVP information here: http://www.meetup.com/la-fullstack/
