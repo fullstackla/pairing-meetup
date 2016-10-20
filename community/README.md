@@ -9,6 +9,7 @@ The most important part about Fullstack ⚡️ is creating and building our comm
 5. Add a comma-separated list of languages you're using or learning, like this: `Langauges: Lisp, Erlang`.
 6. Now you're done! Create a Pull Request to submit your profile.
 
+Here is an example:
 
 ```
 # First Last
