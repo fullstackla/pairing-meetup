@@ -4,7 +4,7 @@ We meet on Wednesdays in [downtown Los Angeles](https://github.com/fullstackla/p
 
 Check out our latest :fork_and_knife: [pull requests](https://github.com/fullstackla/pairing-meetup/blob/master/PULL_REQUEST_EXAMPLES.md).
 
-You'll work with pairs to:
+You'll work in pairs to:
 - Report :bug: [report bugs and issues](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#bug-reports) 
 - Fork a project and use it locally
 - Read, follow and improve documentation
