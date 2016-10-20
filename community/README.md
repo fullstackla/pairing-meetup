@@ -21,3 +21,5 @@ Introduce yourself in a sentence or two.
 - GitHub: URL
 - Languages: Comma, Separated, List
 ```
+
+📺 **Video**: Here's a [video tutorial](https://dl.dropboxusercontent.com/u/732913/fullstackla-community-screencast.mov) that walks you through the steps, thanks to [@gr2m](http://github.com/gr2m)
