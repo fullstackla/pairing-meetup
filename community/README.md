@@ -17,4 +17,4 @@ The most important part about Fullstack ⚡️ is creating and building our comm
 - Languages: <languages>
 ```
 
-We also made a [video tutorial](https://dl.dropboxusercontent.com/u/732913/fullstackla-community-screencast.mov) that walks you trough the steps
+📺 **Video**: Here's a [video tutorial](https://dl.dropboxusercontent.com/u/732913/fullstackla-community-screencast.mov) that walks you through the steps, thanks to [@gr2m](http://github.com/gr2m)
