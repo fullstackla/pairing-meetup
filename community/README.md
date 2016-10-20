@@ -16,3 +16,5 @@ The most important part about Fullstack ⚡️ is creating and building our comm
 - GitHub: <URL>
 - Languages: <languages>
 ```
+
+We also made a [video tutorial](https://dl.dropboxusercontent.com/u/732913/fullstackla-community-screencast.mov) that walks you trough the steps
