@@ -11,7 +11,7 @@ Our first meetup was in August of 2015, at Opodz in Little Tokyo.
 
 ## Where
 
-Since then, we’ve been meeting every other Wednesday in Little Tokyo, and then a bit east of the Arts District, then up near the valley in Universal City, and now back in downtown Los Angeles.
+Since then, we’ve been meeting every other Wednesday in Little Tokyo, and then a bit east of the Arts District, then up near the valley in Universal City. As of fall 2016, we're back in downtown Los Angeles and also added a second location in downtown Santa Monica. 
 
 ## What
 We wanted to devote a space and time in the downtown-area to practice what we believe in: 
@@ -21,4 +21,4 @@ We wanted to devote a space and time in the downtown-area to practice what we be
 - using and improving free and open-source software tools. 
 
 ## Why
-Inspired by agile extreme programming practitioners and meetup organizers like Pivotal Labs in Santa Monica and open source contributors like Katrina Owen of Exercism, we wanted to continue our own personal learning and learn with others in Los Angeles through workshop-style meetups. It’s important to us to keep empowering others to craft the meetup to align with their own learning goals, while making sure organizers do not get burnt out. 
+Inspired by agile extreme programming practitioners and meetup organizers like Pivotal Labs in Santa Monica and open source contributors like Katrina Owen of Exercism, we wanted to continue our own personal learning and learn with others in Los Angeles through workshop-style meetups. We noticed there weren't any regularly-meeting, beginner-friendly, language/framework-aganostic meetups in the downtown area that focused on coding together. So we started one. It’s important to us to keep empowering others to craft the meetup to align with their own learning goals, while making sure organizers do not get burnt out. 
