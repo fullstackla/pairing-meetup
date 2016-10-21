@@ -1,6 +1,6 @@
 Rouzbeh Sarrafieh
 
-Short biography..coming soon.
+Developer at Zoo Printing and help out organizing things for [Learn to Code LA Meetup](https://www.meetup.com/LearnToCodeLA/) while hosting a Tuesday night JavaScript study group on the westside. Excited soon to be father and enthusiastic about community involvement and advancement!
 
 - [Twitter](https://www.twitter.com/rouzbeh84)
 - [Website](https://www.rouzbeh.net) [under-construction]
