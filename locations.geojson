@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1d486a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "8th Light",
+        "address": "241 S Figueroa St. Suite 240 Los Angeles, CA 90012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2539391517639,
+          34.05607276338367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1d486a",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pivotal",
+        "address": "1333 2nd St, Santa Monica, CA 90401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.49747836589812,
+          34.01567941142677
+        ]
+      }
+    }
+  ]
+}

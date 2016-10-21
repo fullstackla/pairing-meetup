@@ -1,12 +1,24 @@
 # Welcome to Fullstack :zap: Open Source Pair Programming 
 
-We meet on Wednesdays in [downtown Los Angeles](https://github.com/fullstackla/pairing-meetup#city_sunset-how-do-i-get-to-the-downtown-la-meetup) and [Santa Monica](https://github.com/fullstackla/pairing-meetup#palm_tree-how-do-i-get-to-the-santa-monica-meetup). Come pair program with us on open source projects. Want to learn more about us? Read about our [origins](https://github.com/fullstackla/pairing-meetup/blob/master/ORIGINS.md) and [thank you](https://github.com/fullstackla/pairing-meetup/blob/master/THANKS.md) to all of our sponsors.
+We meet on Wednesdays in [downtown Los Angeles](https://github.com/fullstackla/pairing-meetup#city_sunset-how-do-i-get-to-the-downtown-la-meetup) and [Santa Monica](https://github.com/fullstackla/pairing-meetup#palm_tree-how-do-i-get-to-the-santa-monica-meetup). Come pair program with us on open source projects. You can read about how we got started here: [origins](https://github.com/fullstackla/pairing-meetup/blob/master/ORIGINS.md) and our [acknowledgments](https://github.com/fullstackla/pairing-meetup/blob/master/THANKS.md) to all of our sponsors. 
+
+Check out our latest :fork_and_knife: [pull requests](https://github.com/fullstackla/pairing-meetup/blob/master/PULL_REQUEST_EXAMPLES.md).
+
+You'll work in pairs to:
+- Report :bug: [report bugs and issues](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#bug-reports) 
+- Fork a project and use it locally
+- Read, follow and improve documentation
+- Write [commit messages](https://gist.github.com/stephenparish/9941e89d80e2bc58a153) for changes made
+- Run [tests and write tests](https://github.com/hoodiehq/hoodie/blob/master/CODING_STYLE.md#client)
+- Work with common development tools like: continuous integration, [linters and style guides](https://github.com/hoodiehq/hoodie/blob/master/CODING_STYLE.md)
+- Resolving problems with processes like [merge conflicts, squash commits, communicating with maintainers,](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#maintainers) and [triaging](https://github.com/hoodiehq/hoodie/blob/master/TRIAGING.md)
+- Push and write :fork_and_knife: [pull requests](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#pull-requests)
 
 ## :calendar: How do I join your next event?
 Check out our latest meetup RSVP information here: http://www.meetup.com/la-fullstack/
 
 ## :computer: Do I have to do anything before I start?
-1. **Code editor**: Install a code editor. If you do not have one already, here’s our favorite for Macs and Windows: https://atom.io/
+1. **Code editor**: Install a code editor. If you do not have one already, here’s our favorite: [Atom](https://atom.io/) -- you can extend it using JavaScript.
 2. **GitHub**: Make a GitHub account and install `git`.
 3. **Code of Conduct**: Read our [Code of Conduct](https://www.girldevelopit.com/code-of-conduct)
 4. **RSVP & Logistics**: RSVP on [Meetup.com](http://www.meetup.com/la-fullstack/) to get the latest updates on the meetup location (parking, Metro access) and all those logistical details.
@@ -34,19 +46,68 @@ Here are some [tips](https://github.com/fullstackla/pairing-meetup/blob/master/t
 
 ## :zap: Open Source projects we have contributed to at the meetup:
 
-| [Exercism](https://github.com/exercism/exercism.io)  | [Hoodie](https://github.com/hoodiehq/) |  [Homebrew](https://github.com/homebrew) | More projects:|
+| [Exercism](https://github.com/exercism/exercism.io)  | [Hoodie](https://github.com/hoodiehq/) |  [Homebrew](https://github.com/homebrew) | [Parrit](https://github.com/Pinwheeler/Parrit)|
 | ------------- | ------------- |------------- |------------- |
-| ![Exercism][exercism-logo]  | ![Hoodie][hoodie-logo]  | ![Homebrew][brew-logo]  | - [Parrit](https://github.com/Pinwheeler/Parrit)|
+| ![Exercism][exercism-logo]  | ![Hoodie][hoodie-logo]  | ![Homebrew][brew-logo]  | :bird: |
+| `Ruby` `Sinatra`  | `JavaScript` | `Ruby`  | `JavaScript (React.js)`|
 
 [exercism-logo]: https://avatars2.githubusercontent.com/u/5624255?v=3&s=200
 [hoodie-logo]: https://avatars1.githubusercontent.com/u/1888826?v=3&s=200
 [brew-logo]: https://avatars2.githubusercontent.com/u/1503512?v=3&s=200
 
-## :pencil: Read more about us:
+## :zap: More ideas on where to start:
 
+<table>
+    <thead>
+        <tr><th>Project</th><th>Language</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://aur.archlinux.org/packages/">AUR (ArchLinux User Repository) packages</a></td>
+            <td>Bash</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/scop/bash-completion">bash auto completion scripts</a></td>
+            <td>Bash</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/dimitri/el-get/tree/master/recipes">el-get recipes</a></td>
+            <td>Emacs Lisp</td>
+        </tr>
+        <tr>
+            <td><a href="https://gitlab.com/fdroid/fdroiddata/tree/master/metadata">F-Droid metadata</a></td>
+            <td>plain text</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Homebrew/homebrew-core/tree/master/Formula">homebrew recipes</a></td>
+            <td>Ruby</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/PrismJS/prism/tree/gh-pages/components">prism.js components</a></td>
+            <td>JavaScript</td>
+        </tr>
+        <tr>
+            <td><a href="https://bitbucket.org/birkenfeld/pygments-main/src/default/pygments/lexers/">pygments lexers</a></td>
+            <td>Python</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/zsh-users/zsh-completions">zsh auto completion scripts</a></td>
+            <td>Zsh</td>
+        </tr>
+    </tbody>
+</table>
+
+## :pencil: More from our contributors:
+
+#### Writing
 - [Q&A: Homebrew Summer of Code Talk at Fullstack](http://eirinikos.github.io/2016/08/17/fullstack-q-a/) by [@eirinkos](http://github.com/eirinkos)
 - [Pairing on a map page](http://developingian.com/pairing-on-a-map-page/) by [@iandcarroll](http://github.com/iandcarroll)
 - [Pair Programming for optimizing mobile](https://www.topbug.net/blog/2016/08/27/optimization-for-mobile-a-pair-programming-story-at-fullstackla/) by [@xuhdev](http://github.com/xuhdev)
+- [The Practical Dev - A Mentor's Crossroad](https://dev.to/rubynista/a-mentors-crossroad) by [@theresaluu](http://github.com/theresaluu)
+
+#### Speaking
+- [What comes after Git Push](http://conferences.oreilly.com/oscon/oscon-tx-2016/public/schedule/detail/48446) @ OSCON 2016 by [@jdorfman](http://github.com/jdorfman)
+- [Welcoming communities](https://speakerdeck.com/gr2m/welcoming-communities) @ Empire JS 2016 by [@gr2m](https://speakerdeck.com/gr2m/welcoming-communities)
 
 ## Help!
 1. When you are stuck on code: Make an issue on what you‘re stuck on here - https://github.com/fullstackla/pairing-meetup/issues
