@@ -1,5 +1,5 @@
 <!--- Write a few-word summary of your changes in the Title above -->
-#### Related Issue
+#### Related issue
 <!--- Please link to the issue this change resolves here: -->
 <!--- For example: resolves #42. 
       (This will auto-close the issue when the pull request is accepted)-->
@@ -10,10 +10,10 @@ resolves # .
 
 #### Screenshots (if appropriate):
 
-#### Context and Reason Why
+#### Context and reason why
 <!--- What value does this change add? For whom? And in what situation? -->
 
-#### How Has This Been Tested?
+#### How has this been tested?
 <!--- Please describe in detail how you tested your changes. -->
 <!--- Include details of your testing environment, and the tests you ran to
       see how your change affects other areas of the code, etc. -->
@@ -25,4 +25,4 @@ Paired with @github_handle
 
 ---
 
-[Made at Fullstack LA](https://meetup.com/la-fullstack/events/234620974) :zap:
+[Made at Fullstack](https://meetup.com/la-fullstack/) :zap:
