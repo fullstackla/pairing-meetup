@@ -98,6 +98,19 @@ Here are some [tips](https://github.com/fullstackla/pairing-meetup/blob/master/t
     </tbody>
 </table>
 
+## :zap: Just for fun, and fun is important:
+<table>
+    <thead>
+        <tr><th>Project</th><th>Language</th></tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/searls/emoruby">emoruby</a></td>
+            <td>:gem:, Ruby, emoji</td>
+        </tr>
+    </tbody>
+</table>
+
 ## :pencil: More from our contributors:
 
 #### Writing
