@@ -1,4 +1,4 @@
-<!--- Write the sentnece of the issue in the Title above -->
+<!--- Write the sentence of the issue in the Title above -->
 #### User story
 <!--- Please explain the desired change from the point of view of a specific user: -->
 
