@@ -48,8 +48,8 @@ Here are some [tips](https://github.com/fullstackla/pairing-meetup/blob/master/t
 
 | [Exercism](https://github.com/exercism/exercism.io)  | [Hoodie](https://github.com/hoodiehq/) |  [Homebrew](https://github.com/homebrew) | Pivotal Labs OSS: |
 | ------------- | ------------- |------------- |------------- |
-| [![Exercism][exercism-logo]](http://exercism.io)  | [![Hoodie][hoodie-logo]](http://hood.ie)  | [![Homebrew][brew-logo]](http://brew.sh/)  | - [Parrit](https://github.com/Pinwheeler/Parrit) - [Concourse](https://github.com/concourse/concourse) |
-| `Ruby` `Sinatra`  | `JavaScript` | `Ruby`  | `JavaScript (React.js)`|
+| [![Exercism][exercism-logo]](http://exercism.io)  | [![Hoodie][hoodie-logo]](http://hood.ie)  | [![Homebrew][brew-logo]](http://brew.sh/)  | - [Parrit](https://github.com/Pinwheeler/Parrit) `JavaScript` - [Concourse](https://github.com/concourse/concourse) `Go` |
+| `Ruby` `Sinatra`  | `JavaScript` | `Ruby`  | `The best language for the problem at hand` |
 | [Start here](https://github.com/exercism/exercism.io#contributing-to-exercism)  | [Start here](https://github.com/hoodiehq/camp/issues) | [Start here](https://github.com/Homebrew/brew/blob/master/CONTRIBUTING.md)  | |
 
 [exercism-logo]: https://avatars2.githubusercontent.com/u/5624255?v=3&s=200
