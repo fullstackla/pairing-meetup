@@ -17,6 +17,10 @@ You'll work in pairs to:
 ## :calendar: How do I join your next event?
 Check out our latest meetup RSVP information here: http://www.meetup.com/la-fullstack/
 
+## :tv: Watch our stuff
+- **Videos**: https://www.youtube.com/channel/UCfd8oMIrcWnJ8DbN__C5Fow
+- **Live**: http://www.youtube.com/channel/UCfd8oMIrcWnJ8DbN__C5Fow/live
+
 ## :computer: Do I have to do anything before I start?
 1. **Code editor**: Install a code editor. If you do not have one already, here’s our favorite: [Atom](https://atom.io/) -- you can extend it using JavaScript.
 2. **GitHub**: Make a GitHub account and install `git`.
