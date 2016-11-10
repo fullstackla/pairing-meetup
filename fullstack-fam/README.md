@@ -4,6 +4,10 @@ It all started in Los Angeles.
 
 ## ???
 - Rails Bridge LA
+- Hacks Hackers LA
+
+## 2010
+- Hacks Hackers LA https://www.meetup.com/HacksHackers-LA/events/past/?scroll=true#past
 
 ## 2013
 - Rails Girls LA (@jlsuttles): First ever Los Angeles event, held at Pivotal Labs
