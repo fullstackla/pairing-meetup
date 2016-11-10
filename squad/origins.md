@@ -20,8 +20,8 @@ It all started in Los Angeles.
 - LA Software Workshops
 
 ## 2015
-- Fullstack
-- Learn to Code LA
+- Jan 31, 2015: Learn to Code LA
+- August 2015: Fullstack
 
 ## 2016
 - CodeLab OC
