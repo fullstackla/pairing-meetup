@@ -25,4 +25,5 @@ It all started in Los Angeles.
 
 ## 2016
 - CodeLab OC
+- Techtinx
 - Ruby in Hollywood
