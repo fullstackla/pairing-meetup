@@ -19,7 +19,7 @@ It all started in Los Angeles.
 
 ## 2014
 - March: [Rails Girls LA](http://railsgirls.com/la_3-2014) (@jendiamond, @austinrfnd): Largest Rails Girls, ever. 250 Students, in Pasadena
-- April: [Techtinx](http://www.techtinx.com/)(@juansvas): Techtinx launches (@juansvas)
+- April: [Techtinx](http://www.techtinx.com/) (@juansvas): Techtinx launches
 - September: [The first Maptime LA meetup](https://www.meetup.com/ja-JP/MaptimeLA/events/204145932/) (@csterling, et al.)
 - December: [Hack for LA Hackathon](https://hackforladec2013.devpost.com/submissions) (@hackforla): Hackathon in Boyle Heights
 
