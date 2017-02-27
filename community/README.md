@@ -1,5 +1,7 @@
 # Fullstack community
 
+![screenshot 2017-02-27 12 29 31](https://cloud.githubusercontent.com/assets/3673236/23378606/9994f64e-fce8-11e6-8651-1e2f4fc27093.png)
+
 > [Lives here](https://gr2m.github.io/github-community-list/) <3 The most important part about Fullstack ⚡️ is building and celebrating our community here 🌱. At our meetups, we create a space and time to meet and pair together to keep this community growing 🌲. We dedicate this space in this directory to give people a chance to introduce themselves and get to know each other:
 
 1. Create a [Markdown](https://help.github.com/articles/about-writing-and-formatting-on-github/) file (`.md`) with `my-github-name` as the filename.
